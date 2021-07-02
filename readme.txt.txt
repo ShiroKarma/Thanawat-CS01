@@ -1,1 +1,0 @@
-Thanawat Puttipipattanasakul
