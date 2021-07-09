@@ -1,2 +1,2 @@
 print("hello world")
-print('Thanawat Puttpipattanasakul')
+print('Thanawat  Puttpipattanasakul')
