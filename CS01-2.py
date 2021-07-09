@@ -1,2 +1,8 @@
 a= input("input name : ")
 print (a)
+b = int(input('some number : '))
+b1 = type(b)
+print(b,b1)
+c = float(input('some digit number : '))
+c1 = type(c)
+print(c,c1)
