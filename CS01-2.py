@@ -1,8 +1,2 @@
 a= input("input name : ")
 print (a)
-b = int(input('your birthday : '))
-b1 = type(b)
-print(b,b1)
-c = float(input('your birthday : '))
-c1 = type(c)
-print(c,c1)
