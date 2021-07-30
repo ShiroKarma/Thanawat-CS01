@@ -1,5 +1,5 @@
-k = '*'
-for x in range(5):
-    for y in range(0,x+1):
-        print(k , end=' ',)
+rows = '*'
+for row in range(5):
+    for column in range(0,row+1):
+        print(rows , end=' ')
     print('\n')
